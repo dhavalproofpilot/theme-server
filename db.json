@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "name": "Light",
+      "clr": {
+        "base": "#ffffff",
+        "neutral": "#292F33",
+        "primary": "#1e293b",
+        "secondary": "#e2e8f0"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dark",
+      "clr": {
+        "base": "#363945",
+        "neutral": "#c9daee",
+        "primary": "#991b1b",
+        "secondary": "#fecaca"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Colored",
+      "clr": {
+        "base": "#f8b8ff",
+        "neutral": "#5b2e60",
+        "primary": "#9277ff",
+        "secondary": "#8af7a2"
+      }
+    },
+    {
+      "name": "new-theme",
+      "clr": {
+        "base": "#363945",
+        "neutral": "#c9daee",
+        "primary": "#991b1b",
+        "secondary": "#fecaca"
+      },
+      "id": 4
+    }
+  ]
+}
